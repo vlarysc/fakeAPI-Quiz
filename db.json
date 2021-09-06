@@ -1,0 +1,114 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "Quem descobriu o Brasil?",
+      "answerA": "Dom Quixote",
+      "answerB": "Dom Casmurro",
+      "answerC": "Pedro Álvares Cabral",
+      "answerD": "Vicente Yáñez Pinzón",
+      "answerE": "Dom Pedro Primeiro",
+      "correct_answer": "answerD",
+      "explanation": "Contrariando os livros de história, o Brasil foi descoberto pelo espanhol Vicente Yáñez Pinzón, que chegou à costa de Pernambuco em janeiro de 1500. Na escola nos ensinaram que Pedro Álvares Cabral saiu de Lisboa em março de 1500 à frente de 13 caravelas à serviço da coroa portuguesa."
+    },
+    {
+      "id": 2,
+      "question": "Normalmente, quantos litros de sangue uma pessoa tem? Em média, quantos são retirados numa doação de sangue?",
+      "answerA": "Tem entre 2 a 4 litros. São retirados 450 mililitros",
+      "answerB": "Tem entre 4 a 6 litros. São retirados 450 mililitros",
+      "answerC": "Tem 10 litros. São retirados 2 litros",
+      "answerD": "Tem 7 litros. São retirados 1,5 litros",
+      "answerE": "Tem 0,5 litros. São retirados 0,5 litros",
+      "correct_answer": "answerB",
+      "explanation": "A quantidade de sangue varia de pessoa para pessoa O volume de sangue é entre 7% e 8% o peso corporal. Assim, um adulto com 50 e 80 quilos, pode ter entre 4 e 6 litros de sangue, respectivamente Portanto, 4 a 6 litros é a alternativa que compreende a quantidade mais próxima de adultos com pesos diferentes."
+    },
+    {
+      "id": 3,
+      "question": "De quem é a famosa frase “Penso, logo existo”?",
+      "answerA": "Platão",
+      "answerB": "Galileu Galilei",
+      "answerC": "Descartes",
+      "answerD": "Sócrates",
+      "answerE": "Francis Bacon",
+      "correct_answer": "answerC",
+      "explanation": "“Je pense, donc je suis” é a frase original, escrita em francês, do filósofo René Descartes (1596-1650). Ela resume o pensamento e o método de Descartes, para quem tudo tem início na dúvida."
+    },
+    {
+      "id": 4,
+      "question": "De onde é a invenção do chuveiro elétrico?",
+      "answerA": "França",
+      "answerB": "Inglaterra",
+      "answerC": "Brasil",
+      "answerD": "Austrália",
+      "answerE": "Itália",
+      "correct_answer": "answerC",
+      "explanation": "Francisco Canhos é o nome do homem que, na década de 40, desenvolveu o primeiro chuveiro elétrico seguro em Jaú-SP. O aparelho vinha sendo desenvolvido desde os anos 30, mas apresentava riscos de curto-circuito."
+    },
+    {
+      "id": 5,
+      "question": "Quais o menor e o maior país do mundo?",
+      "answerA": "Vaticano e Rússia",
+      "answerB": "Nauru e China",
+      "answerC": "Mônaco e Canadá",
+      "answerD": "Malta e Estados Unidos",
+      "answerE": "São Marino e Índia",
+      "correct_answer": "answerA",
+      "explanation": "O Vaticano, sede da igreja católica, tem apenas 44 hectares (0,44 km2). A Rússia, localizada em dois continentes (Ásia e Europa), tem 17 milhões de km2."
+    },
+    {
+      "id": 6,
+      "question": "Qual o nome do presidente do Brasil que ficou conhecido como Jango?",
+      "answerA": "Jânio Quadros",
+      "answerB": "Jacinto Anjos",
+      "answerC": "Getúlio Vargas",
+      "answerD": "João Figueiredo",
+      "answerE": "João Goulart",
+      "correct_answer": "answerE",
+      "explanation": "João Belchior Marques Goulart (1919-1976) foi o 24º presidente do Brasil, cujo período de governo compreende os anos de 1961 a 1964. João Goulart abandonou a presidência por ocasião do golpe militar."
+    },
+    {
+      "id": 7,
+      "question": "Qual o grupo em que todas as palavras foram escritas corretamente?",
+      "answerA": "Asterístico, beneficiente, meteorologia, entertido",
+      "answerB": "Asterisco, beneficente, meteorologia, entretido",
+      "answerC": "Asterisco, beneficente, metereologia, entretido",
+      "answerD": "Asterístico, beneficiente, metereologia, entretido",
+      "answerE": "Asterisco, beneficiente, metereologia, entretido",
+      "correct_answer": "answerB",
+      "explanation": "Estas palavras são exemplos de barbarismo, um vício de linguagem em que as palavras são pronunciadas ou escritas incorretamente."
+    },
+    {
+      "id": 8,
+      "question": "Qual o livro mais vendido no mundo a seguir à Bíblia?",
+      "answerA": "O Senhor dos Anéis",
+      "answerB": "Dom Quixote",
+      "answerC": "O Pequeno Príncipe",
+      "answerD": "Ela, a Feiticeira",
+      "answerE": "Um Conto de Duas Cidades",
+      "correct_answer": "answerB",
+      "explanation": "Dom Quixote, de Miguel de Cervantes, é um clássico da literatura espanhola. A obra foi escrita em duas partes, uma em 1605, e a outra em 1615."
+    },
+    {
+      "id": 9,
+      "question": "Quantas casas decimais tem o número pi?",
+      "answerA": "Duas",
+      "answerB": "Centenas",
+      "answerC": "Infinitas",
+      "answerD": "Vinte",
+      "answerE": "Milhares",
+      "correct_answer": "answerC",
+      "explanation": "Ao longo dos tempos, vários estudiosos têm se dedicado a calcular o número pi e já chegaram ao número de 5 bilhões de casas."
+    },
+    {
+      "id": 10,
+      "question": "Atualmente, quantos elementos químicos a tabela periódica possui?",
+      "answerA": "113",
+      "answerB": "109",
+      "answerC": "108",
+      "answerD": "118",
+      "answerE": "92",
+      "correct_answer": "answerD",
+      "explanation": "Os últimos elementos foram adicionados à tabela periódica em 2016. Eles são: 113 (Nihônio), 115 (Moscóvio), 117 (Tenessino) e 118 (Oganessônio)."
+    }
+  ]
+}
